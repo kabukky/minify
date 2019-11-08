@@ -185,7 +185,6 @@ var attrMap = map[html.Hash]traits{
 	html.Text:            caselessAttr,
 	html.Translate:       booleanAttr,
 	html.Truespeed:       booleanAttr,
-	html.Type:            caselessAttr,
 	html.Typemustmatch:   booleanAttr,
 	html.Undeterminate:   booleanAttr,
 	html.Usemap:          urlAttr,
