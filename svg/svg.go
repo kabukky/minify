@@ -5,8 +5,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/tdewolff/minify/v2"
-	minifyCSS "github.com/tdewolff/minify/v2/css"
+	"github.com/kabukky/minify/v2"
+	minifyCSS "github.com/kabukky/minify/v2/css"
 	"github.com/tdewolff/parse/v2"
 	"github.com/tdewolff/parse/v2/buffer"
 	"github.com/tdewolff/parse/v2/css"
